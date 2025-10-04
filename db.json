@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro Max",
+      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400&h=600&fit=crop",
+      "price": 1199,
+      "description": "iPhone 15 Pro Max với chip A17 Pro, camera 48MP, màn hình Super Retina XDR 6.7 inch, pin lâu dài và khung titan cao cấp.",
+      "brand": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S24 Ultra",
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&h=600&fit=crop",
+      "price": 1299,
+      "description": "Galaxy S24 Ultra với S Pen tích hợp, camera 200MP, màn hình Dynamic AMOLED 6.8 inch, chip Snapdragon 8 Gen 3.",
+      "brand": "Samsung"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 8 Pro",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=600&fit=crop",
+      "price": 999,
+      "description": "Pixel 8 Pro với chip Tensor G3, camera AI tiên tiến, màn hình LTPO OLED 6.7 inch, Android thuần túy.",
+      "brand": "Google"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 12",
+      "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=400&h=600&fit=crop",
+      "price": 799,
+      "description": "OnePlus 12 với chip Snapdragon 8 Gen 3, sạc nhanh 100W, camera Hasselblad, màn hình AMOLED 120Hz.",
+      "brand": "OnePlus"
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi 14 Ultra",
+      "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400&h=600&fit=crop",
+      "price": 1099,
+      "description": "Xiaomi 14 Ultra với camera Leica, chip Snapdragon 8 Gen 3, màn hình LTPO AMOLED 6.73 inch, sạc nhanh 90W.",
+      "brand": "Xiaomi"
+    },
+    {
+      "id": 6,
+      "name": "iPhone 14 Pro",
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=400&h=600&fit=crop",
+      "price": 999,
+      "description": "iPhone 14 Pro với Dynamic Island, chip A16 Bionic, camera 48MP Pro, màn hình ProMotion 6.1 inch.",
+      "brand": "Apple"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy Z Fold 5",
+      "image": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?w=400&h=600&fit=crop",
+      "price": 1799,
+      "description": "Galaxy Z Fold 5 màn hình gập, màn hình chính 7.6 inch, chip Snapdragon 8 Gen 2, S Pen tương thích.",
+      "brand": "Samsung"
+    },
+    {
+      "id": 8,
+      "name": "Oppo Find X6 Pro",
+      "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=400&h=600&fit=crop",
+      "price": 899,
+      "description": "Oppo Find X6 Pro với camera Hasselblad, chip Snapdragon 8 Gen 2, màn hình AMOLED 6.82 inch, sạc nhanh 100W.",
+      "brand": "Oppo"
+    },
+    {
+      "id": 9,
+      "name": "Vivo X100 Pro",
+      "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=400&h=600&fit=crop",
+      "price": 849,
+      "description": "Vivo X100 Pro với camera Zeiss, chip MediaTek Dimensity 9300, màn hình AMOLED 6.78 inch cong.",
+      "brand": "Vivo"
+    },
+    {
+      "id": 10,
+      "name": "Nothing Phone 2",
+      "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=400&h=600&fit=crop",
+      "price": 699,
+      "description": "Nothing Phone 2 với Glyph Interface độc đáo, chip Snapdragon 8+ Gen 1, màn hình LTPO OLED 6.7 inch.",
+      "brand": "Nothing"
+    },
+    {
+      "id": 11,
+      "name": "Realme GT 5 Pro",
+      "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=400&h=600&fit=crop",
+      "price": 649,
+      "description": "Realme GT 5 Pro với chip Snapdragon 8 Gen 3, sạc nhanh 100W, camera 50MP IMX890, màn hình AMOLED 144Hz.",
+      "brand": "Realme"
+    },
+    {
+      "id": 12,
+      "name": "Honor Magic 6 Pro",
+      "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400&h=600&fit=crop",
+      "price": 899,
+      "description": "Honor Magic 6 Pro với chip Snapdragon 8 Gen 3, camera 180MP periscope, màn hình LTPO OLED cong 6.8 inch.",
+      "brand": "Honor"
+    },
+    {
+      "id": 13,
+      "name": "Asus ROG Phone 8 Pro",
+      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400&h=600&fit=crop",
+      "price": 1199,
+      "description": "Asus ROG Phone 8 Pro gaming phone với chip Snapdragon 8 Gen 3, tản nhiệt AeroActive Cooler, màn hình 165Hz.",
+      "brand": "Asus"
+    },
+    {
+      "id": 14,
+      "name": "Sony Xperia 1 VI",
+      "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=400&h=600&fit=crop",
+      "price": 1299,
+      "description": "Sony Xperia 1 VI với màn hình 4K OLED 21:9, camera Alpha, chip Snapdragon 8 Gen 3, thiết kế chống nước IP68.",
+      "brand": "Sony"
+    },
+    {
+      "id": 15,
+      "name": "Motorola Edge 50 Ultra",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=600&fit=crop",
+      "price": 799,
+      "description": "Motorola Edge 50 Ultra với chip Snapdragon 8s Gen 3, camera 50MP OIS, màn hình pOLED 144Hz, sạc nhanh 125W.",
+      "brand": "Motorola"
+    },
+    {
+      "id": 16,
+      "name": "iPhone 13 Pro",
+      "image": "https://images.unsplash.com/photo-1632633173522-3c9e5e8e0b7a?w=400&h=600&fit=crop",
+      "price": 899,
+      "description": "iPhone 13 Pro với chip A15 Bionic, camera ProRAW, màn hình ProMotion 120Hz, pin cải thiện đáng kể.",
+      "brand": "Apple"
+    },
+    {
+      "id": 17,
+      "name": "Samsung Galaxy S23 FE",
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&h=600&fit=crop",
+      "price": 599,
+      "description": "Galaxy S23 FE với chip Exynos 2200, camera 50MP OIS, màn hình Dynamic AMOLED 6.4 inch, giá cả phải chăng.",
+      "brand": "Samsung"
+    },
+    {
+      "id": 18,
+      "name": "Huawei P60 Pro",
+      "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=400&h=600&fit=crop",
+      "price": 999,
+      "description": "Huawei P60 Pro với camera Leica XMAGE, chip Snapdragon 8+ Gen 1, màn hình LTPO OLED cong 6.67 inch.",
+      "brand": "Huawei"
+    },
+    {
+      "id": 19,
+      "name": "RedMagic 9 Pro",
+      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400&h=600&fit=crop",
+      "price": 749,
+      "description": "RedMagic 9 Pro gaming phone với chip Snapdragon 8 Gen 3, quạt tản nhiệt tích hợp, màn hình 120Hz flat.",
+      "brand": "RedMagic"
+    },
+    {
+      "id": 20,
+      "name": "Fairphone 5",
+      "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400&h=600&fit=crop",
+      "price": 699,
+      "description": "Fairphone 5 smartphone bền vững, có thể sửa chữa, chip QCM6490, camera 50MP, thiết kế thân thiện môi trường.",
+      "brand": "Fairphone"
+    }
+  ]
+}
