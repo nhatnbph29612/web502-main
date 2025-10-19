@@ -73,14 +73,6 @@
       "brand": "Vivo"
     },
     {
-      "id": 10,
-      "name": "Nothing Phone 2",
-      "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=400&h=600&fit=crop",
-      "price": 699,
-      "description": "Nothing Phone 2 với Glyph Interface độc đáo, chip Snapdragon 8+ Gen 1, màn hình LTPO OLED 6.7 inch.",
-      "brand": "Nothing"
-    },
-    {
       "id": 11,
       "name": "Realme GT 5 Pro",
       "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=400&h=600&fit=crop",
@@ -159,6 +151,41 @@
       "price": 699,
       "description": "Fairphone 5 smartphone bền vững, có thể sửa chữa, chip QCM6490, camera 50MP, thiết kế thân thiện môi trường.",
       "brand": "Fairphone"
+    },
+    {
+      "name": "iphone 12 promaxx",
+      "image": "https://anphat.com.vn/media/lib/02-06-2021/gaming.jpg",
+      "price": 100,
+      "brand": "Apple",
+      "category": "Mobile",
+      "id": 21
+    },
+    {
+      "name": "iphone 12 prom",
+      "image": "https://laptop88.vn/media/news/2910_hinhanhmaytinhxachtay5.jpg",
+      "price": 100,
+      "brand": "Apple",
+      "category": "Mobile",
+      "id": 22
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@example.com",
+      "role": "admin"
+    },
+    {
+      "email": "nhatnhat@example.com",
+      "password": "$2a$10$2YST19GaKoz4sz4OmVkSOuBHEKpX7ObpvbuXkrL58EbO9nGJsZyhG",
+      "role": "member",
+      "id": 2
+    },
+    {
+      "email": "nhatnguyen123@gmail.com",
+      "password": "$2a$10$KI8S76hE2lvsZBBszDpA0./E38v3Z6IfKo.797sTQtwSLEFu5qrH6",
+      "role": "member",
+      "id": 3
     }
   ]
 }
